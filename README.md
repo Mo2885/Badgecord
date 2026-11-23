@@ -1,5 +1,5 @@
 # Badgecord
-Badgecord is a Discord Plugin that allows you to eguip all badges (only Peaople with Badgecord installed can se the chages) 
+Badgecord is a Discord Plugin that allows you to eguip all badges (only People with Badgecord installed can se the chages) 
 ## Imporant info
 - We are planing to become a Vencord plugin but we arent at the moment
 - We know that client changes are against the discord ToS
